@@ -1,0 +1,105 @@
+body{
+font-family: 'Oswald', 
+sans-serif;
+}
+.logo{
+  height: 100px;
+}
+.sidebar{
+  float: left;
+  width: 9em;
+  padding: 3px 1.5em 10px 1.3em;
+  position: absolute;
+  font-size:1.5em
+}
+.mainsection{
+  margin: 0 0 0 11em;
+}
+.article{
+  padding: 1.25em 1.5em 1.5em 1.5em;
+  border-left: 1px solid blue;
+  background: white;
+  line-height: 1.6;
+  font-size: 1em;
+  border-top: 1px solid blue;
+  border-bottom: 1px solid blue;
+  border-right: 1px solid blue;
+}
+.mainsectionimage1{
+  border: 1px solid grey;
+  padding: 3px;
+  float: right;
+  background-color: white;
+  font-size: 94%;
+  overflow: hidden;
+  line-height: 0.1em;
+  padding: 3px;
+  font-size: 95%;
+  margin: 0 0 5px 15px;
+  text-align: center;
+
+}
+.mainsectionimage2{
+  border: 1px solid grey;
+  padding: 3px;
+  float: right;
+  background-color: white;
+  font-size: 94%;
+  overflow: hidden;
+  line-height: 0.1em;
+  padding: 3px;
+  font-size: 95%;
+  margin: 0 0 5px 15px;
+  text-align: center;
+
+}
+.mainsectionimage3{
+  border: 1px solid grey;
+  padding: 3px;
+  float: right;
+  background-color: white;
+  font-size: 94%;
+  overflow: hidden;
+  line-height: 0.1em;
+  padding: 3px;
+  font-size: 95%;
+  margin: 0 0 5px 15px;
+  text-align: center;
+
+}
+.contentsPanel{
+border: 1px solid blue;
+background-color: white;
+padding: 5px;
+font-size: 1em;
+position: relative;
+line-height: 1.7em;
+width: 650px;
+height:125px;
+}
+.contentheader{
+  font-size:2.5em;
+  margin: 10px;
+}
+
+ul{
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0.3em 0 0 0;
+}
+.content{
+  display: inline;
+  font-size:2em;
+  margin: 20px;
+}
+.subhead{
+  font-size: 2em;
+}
+.head{
+  font-size: 2.5em;
+}
+.video{
+  margin: 20px auto;
+  width: 400px;
+}
